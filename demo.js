@@ -7,7 +7,7 @@ initPlayers();
 function initPlayers() {
     const dp = new DPlayer({
         container: document.getElementById('dplayer'),
-        autoplay: true,
+        autoplay: flase,
         theme: '#FADFA3',
         loop: true,
         lang: 'zh-cn',
