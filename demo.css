@@ -92,7 +92,7 @@ body {
 }
 
 .example:after {
-    content: "1080P 60FPS";
+    content: "V1.0 2020.6.24";
     position: absolute;
     top: 0;
     left: 0;
