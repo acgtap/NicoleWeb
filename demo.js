@@ -15,7 +15,7 @@ function initPlayers() {
         hotkey: true,
         preload: 'auto',
         video: {
-            url: 'https://linqin-1252236879.file.myqcloud.com/VID_20191114_171850_9.mp4',
+            url: 'https://linqin-1252236879.file.myqcloud.com/VID_20191114_171850_10.mp4',
         },
     });
 
