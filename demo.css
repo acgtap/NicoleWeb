@@ -92,7 +92,7 @@ body {
 }
 
 .example:after {
-    content: "V1.0 2020.6.24";
+    content: "V1.3 2020.6.25 已完成";
     position: absolute;
     top: 0;
     left: 0;
